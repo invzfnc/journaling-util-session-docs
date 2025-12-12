@@ -1,2 +1,2 @@
 # journaling-util-session-docs
-Documentation of Session utility class for Smart Journaling app (javadoc)
+Documentation for the utility classes of Smart Journaling app (javadoc) 
