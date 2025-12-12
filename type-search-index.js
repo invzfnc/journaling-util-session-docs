@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"main.java.com.journalapp.util","l":"MoodAnalyzer"},{"p":"main.java.com.journalapp.util","l":"Session"},{"p":"main.java.com.journalapp.util","l":"Weather"}];updateSearchResults();
